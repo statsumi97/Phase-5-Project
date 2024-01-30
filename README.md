@@ -18,6 +18,7 @@ MealMap is a user-friendly webpage that allows users to log, filter, and randoml
 <img width="702" alt="Screen Shot 2024-01-29 at 7 10 15 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/2f77142b-b4a4-4f13-9d16-06ef30150784">
 
 ## Schema:
+<img width="701" alt="Screen Shot 2024-01-29 at 7 37 31 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/b6166c9c-1a49-4973-b32a-940319f1a6fd">
 
 ## API Routes:
 
