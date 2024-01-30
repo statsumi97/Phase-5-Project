@@ -55,4 +55,11 @@ Implement real-time updates that would allow users to see updates from other use
 <img width="1178" alt="Screen Shot 2024-01-29 at 8 05 51 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/e1e9e888-c97e-4111-9ad2-a79f5b0a4185">
 
 ## Wireframe:
+<img width="540" alt="Screen Shot 2024-01-29 at 8 25 45 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/e657a3f3-530d-4486-8898-870bd851182a">
+<img width="510" alt="Screen Shot 2024-01-29 at 8 25 53 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/f5613819-22ce-4311-90e8-7f8503383c8e">
+<img width="607" alt="Screen Shot 2024-01-29 at 8 26 01 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/3711ab63-ef90-4f72-9004-573da13b04f9">
+<img width="466" alt="Screen Shot 2024-01-29 at 8 26 06 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/8f03b2d3-e61d-4cd2-a6a9-c6a6ae2991cb">
+<img width="212" alt="Screen Shot 2024-01-29 at 8 28 13 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/1471b630-7db1-4ad6-83b3-a32981d4b014">
+
+
 
