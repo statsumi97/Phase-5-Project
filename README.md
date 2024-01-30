@@ -15,7 +15,7 @@ MealMap is a user-friendly webpage that allows users to log, filter, and randoml
 8. A user can edit and delete their posts to manage their content. 
 
 ## React Tree:
-
+<img width="702" alt="Screen Shot 2024-01-29 at 7 10 15 PM" src="https://github.com/statsumi97/Phase-5-Project/assets/147007475/2f77142b-b4a4-4f13-9d16-06ef30150784">
 
 ## Schema:
 
